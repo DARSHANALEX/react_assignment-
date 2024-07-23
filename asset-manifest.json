@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ASSES/static/css/main.02ab0445.css",
+    "main.js": "/ASSES/static/js/main.49179759.js",
+    "static/js/453.04d01649.chunk.js": "/ASSES/static/js/453.04d01649.chunk.js",
+    "index.html": "/ASSES/index.html",
+    "main.02ab0445.css.map": "/ASSES/static/css/main.02ab0445.css.map",
+    "main.49179759.js.map": "/ASSES/static/js/main.49179759.js.map",
+    "453.04d01649.chunk.js.map": "/ASSES/static/js/453.04d01649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ab0445.css",
+    "static/js/main.49179759.js"
+  ]
+}
